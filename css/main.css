@@ -5,7 +5,7 @@
    ========================================================================== */
 
 body {
-  background-color:#383830;
+  background-color:#273238;
   /* padding:2em; */
 }
 
@@ -19,16 +19,25 @@ h1 {
   color:#C5C8C6;
   font-size:2em;
 }
+ul {
+  list-style:none;
+}
+/* .col-4,
+.col-2,
+.col {border:1px solid orange;}
+.col-6 {border:1px solid blue;} */
 .row {
   /* border:1px solid blue; */
   margin-top:2em;
   margin-bottom:2em;
-  padding-top:5em;
-  padding-bottom:5em;
+  padding-top:2em;
+  padding-bottom:2em;
 }
+h2,
 h3 {
   color: #FD971F;
 }
+h2 { font-size:3.2rem !important;}
 p {
   color:#595959;
 }
